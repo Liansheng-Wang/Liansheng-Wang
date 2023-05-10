@@ -2,7 +2,7 @@
 - 👀 I’m interested in Planning、Controller、SLAM、Machine-Learning、Reinforcement Learning. It can also be said that robot related
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I hope to have some achievements in automatic driving direction perception.
-- 📫 My email is Y20200067@mail.ecust.edu.cn. Welcome to communication and discussion.
+- 📫 My email is lsWang@mail.ecust.edu.cn. Welcome to communication and discussion.
 
 - 博观而约取,厚积而薄发.
 
