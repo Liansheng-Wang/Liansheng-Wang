@@ -3,9 +3,9 @@
 
 - 👀 I’m interested in Planning、Controller、SLAM、Machine-Learning、Reinforcement Learning.
 
-- 💞️ I hope to have some achievements in automatic driving direction perception.
+- 💞️ I’m currently learning Multi-Robot Path Planning.
 
-- 📫 My email is lswang@mail.ecust.edu.cn. Welcome to communication and discussion.
+- 📫 How to reach me: lswang@mail.ecust.edu.cn.
 
 - 🌱 博观而约取,厚积而薄发.
 
