@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: lswang@mail.ecust.edu.cn.
 
-- 🌱 博观而约取,厚积而薄发.
 
 
 
